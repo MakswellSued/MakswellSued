@@ -1,7 +1,7 @@
 # Olá, sou Makswell Sued.
 
 - 🔭 No momento estou buscando trabalhar apenas com Desenvolvimento e Áreas da Tecnologia da Informação.
-- 🌱 Estudando Gestão em Tecnologia da Informação - Back-End,Front-End,Mobile IOT, Banco de Dados, Metodos de Projetos 
+- 🌱 Gestão em Tecnologia da Informação - Back-End, Front-End, Mobile IOT, Banco de Dados, Metodos de Projetos 
 Ágeis Linguas estrangeiras: Inglês, Espanhol e Italiano.
  
  - - 😄 Pronouns: Ele\Dele - Hi\His
