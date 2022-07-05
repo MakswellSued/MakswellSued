@@ -1,7 +1,7 @@
 # Olá, sou Makswell Sued.
 
 - 🔭 No momento estou trabalhando apenas com Desenvolvimento e Áreas da Tecnologia da Informação.
-- 🌱 Gestão em Tecnologia da Informação - Back-End, Front-End, Mobile IOT, Banco de Dados, Metodos e Projetos 
+- 🌱 Gestão em Tecnologia da Informação - Back-End, Front-End, Mobile IOT, Banco de Dados, QA Quality Assurence, Metodos e Projetos 
 Ágeis,  
                                         Linguas estrangeiras: Inglês, Espanhol e Italiano.
  
